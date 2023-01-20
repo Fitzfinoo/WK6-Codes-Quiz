@@ -1,15 +1,9 @@
 # Module 6 Challenge Web APIs: Code Quiz
 
-## Your Task
-
-As you proceed in your journey to becoming a front-end web developer, it’s likely that you’ll be asked to complete a coding assessment, perhaps as part of an interview process. A typical coding assessment is a combination of multiple-choice questions and interactive coding challenges. 
-
-To help you become familiar with these tests and give you a chance to apply the skills from this module, this week’s challenge invites you to build a timed coding quiz with multiple-choice questions. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean, polished, and responsive user interface. This week’s coursework has taught you all the skills you need to succeed in this challenge.
-
 
 ## Description 
 
-In this challenge, i need to use the concept i have learned in Week 5 to complete the challenge. Beside, i have to do some reseach of JavaScrip then can be able to accomplished.
+In this challenge, i need to use the concept i have learned in Week 6 to complete the challenge. Beside, i have to do some reseach of JavaScrips and local storage then can be able to accomplished.
 
 ## Table of contents
 N/A
